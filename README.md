@@ -15,7 +15,6 @@ This project analyzes retail sales data using Python, Pandas, NumPy, Matplotlib,
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ## Dataset

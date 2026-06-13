@@ -1,7 +1,7 @@
 # Retail Sales Data Analysis
 
 ## Project Overview
-This project analyzes retail sales data using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+This project analyzes retail sales data using Python, Pandas, NumPy, Matplotlib.
 
 ## Objectives
 - Data Cleaning
